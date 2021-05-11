@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*  Variables */
+:root {
+  /* Primary colors */
+  -cyan: hsl(179, 62%, 43%);
+  -brightyellow: hsl(71, 73%, 54%);
+
+  /* Neutral colors */
+  -lightgray: hsl(204, 43%, 93%);
+  -grayishblue: hsl(218, 22%, 67%);
+}
+
+
